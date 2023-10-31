@@ -12,5 +12,8 @@
     "express": "^4.18.2",
     "sequelize": "^6.33.0",
     "tedious": "^16.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
